@@ -30,6 +30,6 @@ This project is a React Native application built with Expo. It demonstrates Reac
 
 ## Student Information
 
-- Name: [Your Full Name]
+- Name: Raphoncel R. Eduria
 - Course: IT313 Mobile Programming
 - Activity: Laboratory 5 – React State and Hooks
