@@ -1,56 +1,35 @@
-# Welcome to your Expo app 👋
+# IT313 Laboratory 5: React State and Hooks
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Project Description
 
-## Get started
+This project is a React Native application built with Expo. It demonstrates React state management using `useState` and side effects using `useEffect`.
 
-1. Install dependencies
+## Features
 
-   ```bash
-   npm install
-   ```
+- Track solved practice problems.
+- Increase the counter using the Solve +1 button.
+- Reset the counter.
+- Display a congratulatory message when five or more problems are solved.
+- Start and stop a stopwatch.
+- Use `clearInterval` to clean up the timer interval.
 
-2. Start the app
+## Technologies Used
 
-   ```bash
-   npx expo start
-   ```
+- React Native
+- Expo
+- TypeScript
+- React Hooks: `useState` and `useEffect`
 
-In the output, you'll find options to open the app in a
+## How to Run
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+1. Install Node.js and Expo-compatible dependencies.
+2. Open the project folder in a terminal.
+3. Run `npm install`.
+4. Run `npx expo start`.
+5. Open the app using Expo Go.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Student Information
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-### Other setup steps
-
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- Name: [Your Full Name]
+- Course: IT313 Mobile Programming
+- Activity: Laboratory 5 – React State and Hooks
